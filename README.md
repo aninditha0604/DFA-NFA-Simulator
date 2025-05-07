@@ -148,5 +148,4 @@ dot.exe -Tpng "C:\path\to\nfa.dot" -o "C:\path\to\nfa.png"
 - Add step-by-step animated visualizations using JavaScript
 - Expand simulator to include additional TOC (Theory of Computation) concepts
 
-
-Feel free to reach out!
+Feel free to reach out for any questions and feedback!
